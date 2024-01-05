@@ -1,4 +1,4 @@
-import View from './View.js';
+import View from './views/view.js';
 import icons from 'url:../../img/icons.svg'; // Parcel 2
 
 class PreviewView extends View {
